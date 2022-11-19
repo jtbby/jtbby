@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtbby
 - 👀 I’m interested in diet and nutrition
-- 🌱 I’m currently learning Algorithms
+- 🌱 I’m currently improving my Java and C 
 
 <!---
 jtbby/jtbby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
