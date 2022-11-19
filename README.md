@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jtbby
-- 👀 I’m interested in diet and nutrition
+- 👀 I’m interested in diet, nutrition, martial arts, neurochemistry and more!
 - 🌱 I’m currently improving my Java and C 
 
 <!---
