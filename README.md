@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jtbby
-- 👀 I’m interested in nutrition, martial arts, neurochemistry and TECH!
+- 👀 I’m interested in nutrition, martial arts, neurology and TECH!
 - 🌱 I’m currently improving my Java and C, with HTML/CSS + JavaScript on the side.
 
 <!---
