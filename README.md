@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtbby
-- 👀 I’m interested in nutrition, martial arts, neurology and TECH!
-- 🌱 I’m currently improving my Java and C, with HTML/CSS + JavaScript on the side.
+- 👀 I’m interested in nutrition, martial arts, neurology, and TECH!
+- 🌱 I’m currently improving my Java, Python, and C, with HTML/CSS on the side.
 
 <!---
 jtbby/jtbby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
